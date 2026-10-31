@@ -1,3 +1,4 @@
+# KR2: Tishchenko
 import os
 import socket
 
